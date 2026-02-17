@@ -6,7 +6,7 @@
 
 ---
 
-![Media Catalog]("https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fratatum.com%2Fwp-content%2Fuploads%2F2018%2F03%2F1_jfR0trcAPT3udktrFkOebA-min.jpeg&lr=213&pos=14&rpt=simage&text=media%20catalog%20movie%20") 
+
 
 ## 📖 **О проекте**
 
